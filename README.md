@@ -64,7 +64,7 @@ Para ilustrar el uso del framework Spring, y el ambiente de desarrollo para el u
 	}
 	```
 
-   <img width="835" alt="image" src="https://github.com/juliamejia/Spring_LightweightCont_Annotation-DI_Example/assets/98657146/08acd07b-7b24-4a83-997b-9101c42ab47b">
+   	<img width="835" alt="image" src="https://github.com/juliamejia/Spring_LightweightCont_Annotation-DI_Example/assets/98657146/08acd07b-7b24-4a83-997b-9101c42ab47b">
 
 
   	
