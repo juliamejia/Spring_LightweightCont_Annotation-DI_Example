@@ -38,7 +38,7 @@ Para ilustrar el uso del framework Spring, y el ambiente de desarrollo para el u
 		```
 		
  
-4.	Haga un programa de prueba, donde se cree una instancia de GrammarChecker mediante Spring, y se haga uso de la misma:
+ 4. Haga un programa de prueba, donde se cree una instancia de GrammarChecker mediante Spring, y se haga uso de la misma:
 
 	```java
 	public static void main(String[] args) {
@@ -51,7 +51,7 @@ Para ilustrar el uso del framework Spring, y el ambiente de desarrollo para el u
  	<img width="908" alt="image" src="https://github.com/juliamejia/Spring_LightweightCont_Annotation-DI_Example/assets/98657146/29ee2d32-4474-4a50-837d-34e9bc18f17d">  
 
 	
-5.	Modifique la configuración con anotaciones para que el Bean ‘GrammarChecker‘ ahora haga uso del  la clase SpanishSpellChecker (para que a GrammarChecker se le inyecte EnglishSpellChecker en lugar de  SpanishSpellChecker. Verifique el nuevo resultado.  
+ 5. Modifique la configuración con anotaciones para que el Bean ‘GrammarChecker‘ ahora haga uso del  la clase SpanishSpellChecker (para que a GrammarChecker se le inyecte EnglishSpellChecker en lugar de  SpanishSpellChecker. Verifique el nuevo resultado.  
    	En la clase SpanishSpellChecker se agrega la etiqueta @Service y se quita de la otra clase  
   	
   	```java
